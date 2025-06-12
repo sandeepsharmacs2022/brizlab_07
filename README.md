@@ -1,2 +1,2 @@
 # brizlab_07
-this is my repo
+this is my repository
